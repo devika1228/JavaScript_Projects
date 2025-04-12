@@ -1,5 +1,5 @@
 // Create a new Date object for the target date and time
-const targetDate = new Date('YYYY-MM-DDTHH:MM:SS'); // Set your target
+const targetDate = new Date('2025-12-28T23:59:59'); // Set your target
 
 // Function to update the countdown timer
 function updateCountdown() {
