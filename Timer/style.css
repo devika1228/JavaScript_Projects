@@ -1,0 +1,71 @@
+/* Apply styles to the body element */
+body {
+   /* Set the font family for the text */
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+   /* Use flexbox for layout to easily center content */
+   display: flex;
+
+   /* Center content horizontally */
+   justify-content: center;
+
+   /* Center content vertically */
+   align-items: center;
+
+   /* Set the height of the body to fill the entire viewport */
+   height: 100vh;
+
+   /* Remove default margin around the body */
+   margin: 0;
+
+   /* Set a background with a diagonal gradient from blue to light yellow */
+   background: linear-gradient(135deg, #6dd5ed, #f0e68c);
+
+   /* Set the text color to white for better contrast */
+   color: white;
+}
+
+/* Style the countdown container */
+#countdown {
+   /* Set a semi-transparent black background */
+   background: rgba(0, 0, 0, 0.7);
+
+   /* Add padding inside the container for spacing */
+   padding: 40px 60px;
+
+   /* Round the corners of the container */
+   border-radius: 15px;
+
+   /* Add a shadow effect for a lifted appearance */
+   box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);
+
+   /* Center-align the text inside the container */
+   text-align: center;
+}
+
+/* Style the timer text */
+#timer {
+   /* Set a large font size for the timer */
+   font-size: 3rem;
+
+   /* Add spacing between characters for better readability */
+   letter-spacing: 3px;
+}
+
+/* Style the timer unit labels (e.g., hours, minutes, seconds) */
+.timer-unit {
+   /* Set a slightly smaller font size for the labels */
+   font-size: 1.2rem;
+
+   /* Convert text to uppercase for a uniform look */
+   text-transform: uppercase;
+
+   /* Add spacing between characters */
+   letter-spacing: 2px;
+
+   /* Add some margin at the top for spacing */
+   margin-top: 10px;
+
+   /* Display the labels as block elements to stack them vertically */
+   display: block;
+}
