@@ -60,6 +60,9 @@ Each project is explained with:
 ---
 
 ## 📜 License
-This repository is licensed under the MIT License.
+
+This repository is licensed under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.html).
+
+You are free to use, modify, and distribute this software, provided that you comply with the terms and conditions of the GNU GPL v3.0. 
 
 ---
