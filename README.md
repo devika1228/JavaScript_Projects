@@ -10,7 +10,6 @@ Welcome to the **JavaScript Projects** repository! 🚀 This repository is dedic
 - [🛠️ Projects](#projects)
 - [📂 How to Use](#how-to-use)
 - [💻 Technologies Used](#technologies-used)
-- [🤝 Contributing](#contributing)
 - [📜 License](#license)
 
 ---
@@ -50,3 +49,17 @@ Each project is explained with:
 1. Clone the repository:
    ```bash
    git clone https://github.com/devika1228/JavaScript_Projects.git
+
+---
+
+## 💻 Technologies Used
+**JavaScript** : Core programming language for all projects.
+**HTML** : Structure and layout for the projects.
+**CSS**: Styling and design for visual elements.
+
+---
+
+## 📜 License
+This repository is licensed under the MIT License.
+
+---
