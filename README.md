@@ -53,9 +53,9 @@ Each project is explained with:
 ---
 
 ## 💻 Technologies Used
-**JavaScript** : Core programming language for all projects.
-**HTML** : Structure and layout for the projects.
-**CSS**: Styling and design for visual elements.
+1. **JavaScript** : Core programming language for all projects.
+2. **HTML** : Structure and layout for the projects.
+3. **CSS**: Styling and design for visual elements.
 
 ---
 
