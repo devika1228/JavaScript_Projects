@@ -9,15 +9,18 @@ To deploy this project, follow these steps:
    git clone https://github.com/devika1228/JavaScript_Projects.git
 
 2. Navigate to the project directory:
+    ```bash
 cd JavaScript_Projects
 
-3. Install dependencies (if applicable):
+4. Install dependencies (if applicable):
+    ```bash
 npm install
 
-4. Start the development server:
+6. Start the development server:
+    ```bash
 npm start
 
-5. Open your browser and navigate to http://localhost:3000 (or the specified port).
-6. For production deployment, build the project:
-
+8. Open your browser and navigate to http://localhost:3000 (or the specified port).
+9. For production deployment, build the project:
+ ```bash
 npm run build
